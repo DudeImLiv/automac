@@ -5,7 +5,7 @@ AutoMac contains scripts and configurations for automating the setup of a new ma
 ## Table of Contents
 - [AutoMac](#automac)
   - [Table of Contents](#table-of-contents)
-  - [What You'll Find                           # this file](#what-youll-find----------------------------this-file)
+  - [What You'll Find](#what-youll-find)
   - [Prerequisites](#prerequisites)
   - [Getting Started](#getting-started)
   - [Script Descriptions](#script-descriptions)
@@ -14,7 +14,7 @@ AutoMac contains scripts and configurations for automating the setup of a new ma
     - [Apply Configuration](#apply-configuration)
     - [OMZ Template](#omz-template)
 
-## What You'll Find                           # this file
+## What You'll Find
 
 - iTerm2 Installation & Configuration
   - Theme & Plugin Installation
