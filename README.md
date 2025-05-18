@@ -9,10 +9,10 @@ AutoMac contains scripts and configurations for automating the setup of a new ma
   - [Prerequisites](#prerequisites)
   - [Getting Started](#getting-started)
   - [Script Descriptions](#script-descriptions)
-    - [init-mac.sh](#init-macsh)
-    - [launch-config.sh](#launch-configsh)
-    - [mac-config.sh](#mac-configsh)
-    - [zshrc-template.sh](#zshrc-templatesh)
+    - [Initialize AutoMac](#initialize-automac)
+    - [Launch AutoMac](#launch-automac)
+    - [Apply Configuration](#apply-configuration)
+    - [OMZ Template](#omz-template)
 
 ## What You'll Find                           # this file
 
@@ -42,7 +42,7 @@ AutoMac contains scripts and configurations for automating the setup of a new ma
 
 ## Script Descriptions
 
-### init-mac.sh
+### [Initialize AutoMac](configuration/init-mac.sh)
 
 The initial setup script that:
 **Step 1:** Checks for & installs iTerm2, if needed
@@ -50,7 +50,7 @@ The initial setup script that:
 **Step 2:** Launches iTerm2
 **Step 3:** Initiates the configuration process
 
-### launch-config.sh
+### [Launch AutoMac](configuration/launch-config.sh)
 
 Handles the iTerm2 launch process:
 **Step 1:** Waits for iTerm2 to initialize
@@ -58,16 +58,18 @@ Handles the iTerm2 launch process:
 **Step 3:** Runs the main configuration script
 **Step 4:** Keeps the window open for viewing output, in case of errors.
 
-### mac-config.sh
+### [Apply Configuration](configuration/mac-config.sh)
 
 The main configuration script that:
 **Step 1:** Sets up logging
 **Step 2:** Installs core tools and applications.
-*Note: Prior to running the scripts, review the Applications listed in the Applications array and verify their 'brew' application name at https://www.brew.sh by searching for the Application. If any Applications are missing that you'd like to add, add them now. This will help you in the future, when you want to wipe your Mac and run this configuration wizard afterwards.
+
+   ***If any Applications are missing that you'd like to add, add them now. See [Adding New Applications](configuration.md#adding-new-applications) for more information.***
+
 **Step 3:** Configures shell environment
 **Step 4:** Handles error cases and provides progress updates
 
-### zshrc-template.sh
+### [OMZ Template](configuration/iterm2-ref/zshrc-template.sh)
 
 Template for zsh & iTerm2 configuration that includes:
 - Oh my Zsh setup
