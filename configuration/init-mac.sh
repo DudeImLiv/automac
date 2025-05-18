@@ -20,7 +20,7 @@ trap 'echo "Script interrupted at line $LINENO"; exit 1' INT TERM
 # logging setup
 if [ "$DEBUG" = true ]; then
     # create logging directory if it doesn't exist
-    LOG_DIR="$HOME/scripts/configuration/mac/logging"
+    LOG_DIR="$HOME/scripts/configuration/automac/logging"
     mkdir -p "$LOG_DIR"
 
     LOG_FILE="$LOG_DIR/mac-setup-init-$(date +%Y%m%d_%H%M%S).log"
@@ -70,7 +70,7 @@ else
     fi
 fi
 
-CONFIG_SCRIPT="$HOME/scripts/configuration/mac/mac-config.sh"
+CONFIG_SCRIPT="$HOME/scripts/configuration/automac/mac-config.sh"
 
 if [ "$ITERM_INSTALLED" = true ] && is_running_in_iterm; then
     echo "🚀 Running configuration script in current iTerm2 window..."

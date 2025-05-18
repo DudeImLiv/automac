@@ -4,7 +4,7 @@
 sleep 2
 
 # change to the correct directory
-cd "$HOME/scripts/configuration/mac"
+cd "$HOME/scripts/configuration/automac"
 
 # run the config script
 zsh mac-config.sh

@@ -16,7 +16,7 @@ trap 'echo "Script interrupted at line $LINENO"; exit 1' INT TERM
 # logging setup
 if [ "$DEBUG" = true ]; then
     # create logging directory if it doesn't exist
-    LOG_DIR="$HOME/scripts/configuration/mac/logging"
+    LOG_DIR="$HOME/scripts/configuration/automac/logging"
     mkdir -p "$LOG_DIR"
     
     LOG_FILE="$LOG_DIR/mac-setup-$(date +%Y%m%d_%H%M%S).log"
@@ -94,7 +94,7 @@ echo "🔍 Starting system configuration check..."
 # 1. check and set homebrew path
 echo "👀 Looking for Homebrew path in .zshrc..."
 ZSHRC=~/.zshrc
-ZSHRC_TEMPLATE="$HOME/scripts/configuration/mac/iterm2-ref/zshrc-template.sh"
+ZSHRC_TEMPLATE="$HOME/scripts/configuration/automac/iterm2-ref/zshrc-template.sh"
 
 # backup existing .zshrc if it exists
 if [ -f "$ZSHRC" ]; then
@@ -366,7 +366,7 @@ installed_count=0
 skipped_count=0
 failed_count=0
 
-echo "Found $total_apps applications to check"
+echo "Found $total_apps applications to check."
 
 # install each application
 for app in "${apps[@]}"; do
