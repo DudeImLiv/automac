@@ -39,26 +39,26 @@ shortcut keys is the best way. You will streamline your workflow and save seriou
 | Action | Shortcut |
 |--------|----------|
 | Open | ⌘ O |
-| Save | ⌘  S |
-| Save as | ⌘  ⇧ S |
-| Close | ⌘  W |
-| Cut | ⌘  X |
-| Copy | ⌘  C |
-| Paste | ⌘  V |
-| Select all | ⌘  A |
-| Bold | ⌘  B |
-| Italic | ⌘  I |
-| Underline | ⌘  U |
-| Apply strike-through formatting | ⌘  ⇧ X |
-| Decrease font size 1 point | ⌘  \[ |
-| Increase font size 1 point | ⌘  \] |
-| Center text | ⌘  E |
-| Left align text | ⌘  L |
-| Right align text | ⌘  R |
+| Save | ⌘ S |
+| Save as | ⌘ ⇧ S |
+| Close | ⌘ W |
+| Cut | ⌘ X |
+| Copy | ⌘ C |
+| Paste | ⌘ V |
+| Select all | ⌘ A |
+| Bold | ⌘ B |
+| Italic | ⌘ I |
+| Underline | ⌘ U |
+| Apply strike-through formatting | ⌘ ⇧ X |
+| Decrease font size 1 point | ⌘ \[ |
+| Increase font size 1 point | ⌘ \] |
+| Center text | ⌘ E |
+| Left align text | ⌘ L |
+| Right align text | ⌘ R |
 | Cancel | Escape |
-| Undo | ⌘  Z |
-| Redo | ⌘  Y or | ⌘  ⇧ Z |
-| Open the Spelling and Grammar dialog box | ⌥ ⌘  L |
+| Undo | ⌘ Z |
+| Redo | ⌘ Y or ⌘ ⇧ Z |
+| Open the Spelling and Grammar dialog box | ⌥ ⌘ L |
 | Find the next misspelling or grammatical error | ⌥ Fn 7 |
 | Go to the next window | ⌘ \` |
 | Go to the previous window | ⌘  ⇧ \` |
@@ -69,14 +69,14 @@ shortcut keys is the best way. You will streamline your workflow and save seriou
 | Extend a selection | Fn 8 |
 | Shrink a selection | ⇧ Fn 8 |
 | Switch between a field code and its result | ⇧ Fn 9 |
-| Cut the selection to the Spike | ⌘  Fn 3 |
-| Insert the contents of the spike | ⌘  ⇧ Fn 3 |
-| Edit a bookmark | ⌘  ⇧ Fn 5 |
-| Look up selected text on the Internet | ⌘  ⇧ L |
+| Cut the selection to the Spike | ⌘ Fn 3 |
+| Insert the contents of the spike | ⌘ ⇧ Fn 3 |
+| Edit a bookmark | ⌘ ⇧ Fn 5 |
+| Look up selected text on the Internet | ⌘ ⇧ L |
 | Find | ⌃ F |
 | Find and Replace | ⌃ H |
-| Choose the Go To ⌘ (Edit menu) | ⌥ ⌘  G |
-| Print a document | ⌃ P or ⌘  P |
+| Choose the Go To Command (Edit menu) | ⌥ ⌘ G |
+| Print a document | ⌃ P or ⌘ P |
 
 ### Ribbon Keyboard
 | Action | Shortcut |
@@ -109,8 +109,8 @@ shortcut keys is the best way. You will streamline your workflow and save seriou
 | Insert a comment (in the Revision task pane) | ⌘ ⌥ A |
 | Go to the beginning of a comment | Home |
 | Go to the end of a comment | End |
-| Go to the beginning of the list of comments when in the Reviewing Pane | ⌘ home |
-| Go to the end of the list of comments when in the Reviewing Pane | ⌘ end |
+| Go to the beginning of the list of comments when in the Reviewing Pane | ⌘ Home |
+| Go to the end of the list of comments when in the Reviewing Pane | ⌘ End |
 | Turn change tracking on or off | ⌘ ⇧ E |
 
 ### Find & Replace
@@ -127,20 +127,19 @@ shortcut keys is the best way. You will streamline your workflow and save seriou
 | Move one word to the left | ⌥ ← |
 | Move one word to the right | ⌥ → |
 | Move one paragraph up | ⌘ ↑ |
-| Move one paragraph Down | ⌘ ↓ |
+| Move one paragraph down | ⌘ ↓ |
 | Move one cell to the left (in a ⇥le) | ⇧ ⇥ |
 | Move one cell to the right (in a ⇥le) | ⇥ |
 | Move up one line | ↑ |
-| Move Down one line | ↓ |
-| Move to the end of a line | ⌘ → or end |
-| Move to the beginning of a line | ⌘ ← or home |
-| Scroll up one screen | Page up |
+| Move down one line | ↓ |
+| Move to the end of a line | ⌘ → or End |
+| Move to the beginning of a line | ⌘ ← or Home |
+| Scroll up one screen | Page Up |
 | Scroll down one screen | Page Down |
-| Move to the top of the next page |
-| Page Down | ⌘ G or ⌘ Page Down |
-| Move to the top of the previous page | ⌘ page up |
-| Move to the end of a document | ⌘ end or ⌘ Fn → |
-| Move to the beginning of a document | ⌘ home or ⌘ Fn ← |
+| Move to the top of the next page | ⌘ G or ⌘ Page Down |
+| Move to the top of the previous page | ⌘ Page Up |
+| Move to the end of a document | ⌘ End or ⌘ Fn → |
+| Move to the beginning of a document | ⌘ Home or ⌘ Fn ← |
 | To the previous insertion point | ⇧ Fn 5 |
 
 ### Insert or Mark TOC, Footnotes, & Citations
@@ -157,31 +156,31 @@ shortcut keys is the best way. You will streamline your workflow and save seriou
 | Demote to body text | ⌘ ⇧ N |
 | Move selected paragraphs up | ⌃ ⇧ ↑ |
 | Move selected paragraphs Down | ⌃ ⇧ ↓ |
-| Expand text under a heading | ⌃ ⇧ plus sign |
+| Expand text under a heading | ⌃ ⇧ + |
 | Expand all body text and headings or collapse all body text | ⌃ ⇧ A |
 | Show the first line of text or all text | ⌃ ⇧ L |
-| Show all headings up to Heading n | ⌃ ⇧ n |
+| Show all headings up to Heading n | ⌃ ⇧ N |
 | Insert a ⇥ character | ⌥ ⇥ |
 
 ### Extend Selection
 | Action | Shortcut |
 |--------|----------|
-| Select multiple items not next to each other | ⌘, click |
+| Select multiple items not next to each other | ⌘ click |
 | Extend a selection one character to the right | ⇧ → |
 | Extend a selection one character to the left | ⇧ ← |
 | Extend a selection to the end of a word | ⌥ ⇧ → |
 | Extend a selection to the beginning of a word | ⌥ ⇧ ← |
-| Extend a selection to the end of a line | ⌘ ⇧ → or ⇧ end |
-| Extend a selection to the beginning of a line | ⌘ ⇧ ← or ⇧ home |
+| Extend a selection to the end of a line | ⌘ ⇧ → or ⇧ End |
+| Extend a selection to the beginning of a line | ⌘ ⇧ ← or ⇧ Home |
 | Extend a selection one line Down | ⇧ ↓ |
 | Extend a selection one line up | ⇧ ↑ |
 | Extend a selection to the end of a paragraph | ⌘ ⇧ ↓ |
 | Extend a selection to the beginning of a paragraph | ⌘ ⇧ ↑ |
-| Extend a selection one screen Down | ⇧ page Down |
-| Extend a selection one screen up | ⇧ page up |
-| Extend a selection to the beginning of a document | ⌘ ⇧ home |
-| Extend a selection to the end of a document | ⌘ ⇧ end |
-| Extend a selection to the end of a window | ⌥ ⌘ ⇧ page Down |
+| Extend a selection one screen Down | ⇧ Page Down |
+| Extend a selection one screen up | ⇧ Page Up |
+| Extend a selection to the beginning of a document | ⌘ ⇧ Home |
+| Extend a selection to the end of a document | ⌘ ⇧ End |
+| Extend a selection to the end of a window | ⌥ ⌘ ⇧ Page Down |
 | Extend a selection to include the entire document | ⌘ A |
 | Select a vertical block of text | ⌘ ⇧ Fn 8, ←/→/↑/↓ |
 | Extend a selection to a specific location in a document | Fn 8, ←/→/↑/↓ |
@@ -191,7 +190,7 @@ shortcut keys is the best way. You will streamline your workflow and save seriou
 |--------|----------|
 | Delete one character to the left | ⌫ |
 | Delete one word to the left | ⌘ ⌫ |
-| Delete one character to the right | Del or Clear
+| Delete one character to the right | Del or Clear |
 | Delete one word to the right | ⌘ Del |
 | Cut selected text to the Office clipboard | ⌘ X or Fn 2 |
 | Undo the last action | ⌘ Z |
@@ -219,8 +218,8 @@ shortcut keys is the best way. You will streamline your workflow and save seriou
 |--------|----------|
 | Select the next cell's contents | ⇥ |
 | Select the preceding cell's contents | ⇧ ⇥ |
-| Extend a selection to adjacent cells | ⇧, ←/→/↑/↓ |
-| Extend a selection (or block) | ⌘ ⇧ Fn 8, ←/→/↑/↓ |
+| Extend a selection to adjacent cells | ⇧ ←/→/↑/↓ |
+| Extend a selection (or block) | ⌘ ⇧ Fn 8 ←/→/↑/↓ |
 | Reduce the selection size | ⇧ Fn 8 |
 
 ### Move within a Table
@@ -228,10 +227,10 @@ shortcut keys is the best way. You will streamline your workflow and save seriou
 |--------|----------|
 | Move to the next cell in a row | ⇥ |
 | Move to the previous cell in a row | ⇧ ⇥ |
-| Move to the first cell in a row | ⌃ home |
-| Move to the last cell in a row | ⌃ end |
-| Move to the first cell in a column | ⌃ page up |
-| Move to the last cell in a column | ⌃ page Down |
+| Move to the first cell in a row | ⌃ Home |
+| Move to the last cell in a row | ⌃ End |
+| Move to the first cell in a column | ⌃ Page Up |
+| Move to the last cell in a column | ⌃ Page Down |
 | Move to the previous row | ↑ |
 | Move to the next row | ↓ |
 
@@ -254,18 +253,18 @@ shortcut keys is the best way. You will streamline your workflow and save seriou
 | Double underline text | ⌘ ⇧ D |
 | Apply italic formatting | ⌘ I |
 | Format letters as small capitals | ⌘ ⇧ K |
-| Apply subscript formatting (automatic spacing) | ⌘ equals sign |
-| Apply superscript formatting (automatic spacing) | ⌘ ⇧ plus sign |
+| Apply subscript formatting (automatic spacing) | ⌘ = |
+| Apply superscript formatting (automatic spacing) | ⌘ ⇧ + |
 | Remove manual character formatting | ⌃ ␣ |
 | Apply strike through formatting | ⌘ ⇧ X |
 
 ### Change or Resize Font
 | Action | Shortcut |
 |--------|----------|
-| Increase the font size | ⌘ ⇧ greater than |
-| Decrease the font size | ⌘ ⇧ less than |
-| Increase the font size by 1 point | ⌘ right square bracket |
-| Decrease the font size by 1 point | ⌘ left square bracket |
+| Increase the font size | ⌘ ⇧ > |
+| Decrease the font size | ⌘ ⇧ < |
+| Increase the font size by 1 point | ⌘ \] |
+| Decrease the font size by 1 point | ⌘ \[ |
 | Change the formatting of characters (Font ⌘, Format menu) | ⌘ D |
 
 ### Change Paragraph Alignment
@@ -303,9 +302,9 @@ shortcut keys is the best way. You will streamline your workflow and save seriou
 | Action | Shortcut |
 |--------|----------|
 | Insert a field | ⌘ Fn 9 |
-| Insert a line break | ⇧ enter |
-| Insert a page break | ⌘ enter |
-| Insert a column break | ⌘ ⇧ enter |
+| Insert a line break | ⇧ ⏎ |
+| Insert a page break | ⌘ ⏎ |
+| Insert a column break | ⌘ ⇧ ⏎ |
 | Insert a nonbreaking hyphen | ⌘ ⇧   |
 | Insert the copyright symbol | ⌥ G |
 | Insert the registered trademark symbol | ⌥ R |
@@ -319,3 +318,5 @@ shortcut keys is the best way. You will streamline your workflow and save seriou
 | Merge a document | ⌃ ⇧ N |
 | Edit a mail merge data document | ⌃ ⇧ E |
 | Insert a merge field | ⌃ ⇧ F |
+
+For more information, see the [ShortcutKiller](https://shortcutkiller.com/#)
