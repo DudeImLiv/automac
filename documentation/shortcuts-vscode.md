@@ -23,179 +23,179 @@ immediately, download this and learn Visual Studio Code shortcut keys.
 ## Most Frequently Used
 | Action | Shortcut |
 |--------|----------|
-| User settings | ⌘ + Comma |
-| Indent line | ⌘ + \] |
-| Outdent line | ⌘ + \[ |
-| Beginning of file | ⌘ + ↑ |
-| End of file | ⌘ + ↓ |
-| Go to line | ⌃ + G |
-| Find | ⌘ + F |
-| Replace | ⌥ + ⌘ + F |
-| Find next | ⌘ + G |
-| Find previous | ⇧ + ⌘ + G |
-| Format document | ⇧ + ⌥ + F |
-| Split editor | ⌘ + \ |
-| Focus into nth editor group | ⌘ + 1 or ⌘ + 2 + etc |
-| Toggle full screen | ⌃ + ⌘ + F |
-| Toggle sidebar visibility | ⌘ + B |
+| User settings | ⌘ Comma |
+| Indent line | ⌘ \] |
+| Outdent line | ⌘ \[ |
+| Beginning of file | ⌘ ↑ |
+| End of file | ⌘ ↓ |
+| Go to line | ⌃ G |
+| Find | ⌘ F |
+| Replace | ⌥ ⌘ F |
+| Find next | ⌘ G |
+| Find previous | ⇧ ⌘ G |
+| Format document | ⇧ ⌥ F |
+| Split editor | ⌘ \ |
+| Focus into nth editor group | ⌘ 1 or ⌘ 2 etc |
+| Toggle full screen | ⌃ ⌘ F |
+| Toggle sidebar visibility | ⌘ B |
 
 ## General Shortcuts
 | Action | Shortcut |
 |--------|----------|
-| Show Command Palette | ⇧ + ⌘ + P then Fn 1 |
-| Quick Open, Go to File... | ⌘ + P |
-| New window | ⇧ + ⌘ + N |
-| Close window | ⌘ + W |
-| User settings | ⌘ + Comma |
-| Keyboard shortcuts | ⌘ + K then ⌘ + S |
+| Show ⌘ Palette | ⇧ ⌘ P then Fn 1 |
+| Quick Open, Go to File... | ⌘ P |
+| New window | ⇧ ⌘ N |
+| Close window | ⌘ W |
+| User settings | ⌘ , |
+| Keyboard shortcuts | ⌘ K then ⌘ S |
 
 ## Basic Editing
 | Action | Shortcut |
 |--------|----------|
-| Cut line (with no selection) | ⌘ + X |
-| Copy line (with no selection) | ⌘ + C |
-| Move line up | ⌥ + ↑ |
-| Move line down | ⌥ + ↓ |
-| Copy line up | ⇧ + ⌥ + ↑ |
-| Copy line down | ⇧ + ⌥ + ↓ |
-| Delete line | ⇧ + ⌘ + K |
-| Insert line below | ⌘ + ⏎ |
-| Insert line above | ⇧ + ⌘ + ⏎ |
-| Go to matching bracket | ⇧ + ⌘ + \ |
-| Indent line | ⌘ + \] |
-| Outdent line | ⌘ + \[ |
+| Cut line (with no selection) | ⌘ X |
+| Copy line (with no selection) | ⌘ C |
+| Move line up | ⌥ ↑ |
+| Move line down | ⌥ ↓ |
+| Copy line up | ⇧ ⌥ ↑ |
+| Copy line down | ⇧ ⌥ ↓ |
+| Delete line | ⇧ ⌘ K |
+| Insert line below | ⌘ ⏎ |
+| Insert line above | ⇧ ⌘ ⏎ |
+| Go to matching bracket | ⇧ ⌘ \ |
+| Indent line | ⌘ \] |
+| Outdent line | ⌘ \[ |
 | Go to beginning of line | Home |
 | End of line | End |
-| Beginning of file | ⌘ + ↑ |
-| End of file | ⌘ + ↓ |
-| Scroll line up | ⌃ + Page up |
-| Scroll line down | ⌃ + Page down |
-| Scroll page up | ⌘ + Page up |
-| Scroll page down | ⌘ + Page down |
-| Collapse region | ⌥ + ⌘ + \[ |
-| Uncollapse region | ⌥ + ⌘ + \] |
-| Collapse all subregions | ⌘ + K then  | ⌘ + \[ |
-| Uncollapse all subregions | ⌘ + K then  | ⌘ + \] |
-| Collapse all regions | ⌘ + K then  | ⌘ + 0 |
-| Uncollapse all regions | ⌘ + K then  | ⌘ + J |
-| Add line comment | ⌘ + K then  | ⌘ + C |
-| Remove line comment | ⌘ + K then  | ⌘ + U |
-| Toggle line comment | ⌘ + Slash |
-| Toggle block comment | ⇧ + ⌥ + A |
-| Toggle word wrap | ⌥ + Z |
+| Beginning of file | ⌘ ↑ |
+| End of file | ⌘ ↓ |
+| Scroll line up | ⌃ Page up |
+| Scroll line down | ⌃ Page down |
+| Scroll page up | ⌘ Page up |
+| Scroll page down | ⌘ Page down |
+| Collapse region | ⌥ ⌘ \[ |
+| Uncollapse region | ⌥ ⌘ \] |
+| Collapse all subregions | ⌘ K then  | ⌘ \[ |
+| Uncollapse all subregions | ⌘K then  | ⌘\] |
+| Collapse all regions | ⌘K then  | ⌘0 |
+| Uncollapse all regions | ⌘K then  | ⌘J |
+| Add line comment | ⌘K then  | ⌘C |
+| Remove line comment | ⌘K then  | ⌘U |
+| Toggle line comment | ⌘Slash |
+| Toggle block comment | ⇧⌥A |
+| Toggle word wrap | ⌥Z |
 
 ## Navigation
 | Action | Shortcut |
 |--------|----------|
-| Show all symbols | ⌘ + T |
-| Go to line | ⌃ + G |
-| Go to file | ⌘ + P |
-| Go to symbol | ⇧ + ⌘ + O |
-| Show problems panel | ⇧ + ⌘ + M |
+| Show all symbols | ⌘T |
+| Go to line | ⌃G |
+| Go to file | ⌘P |
+| Go to symbol | ⇧⌘O |
+| Show problems panel | ⇧⌘M |
 | Next error/warning | Fn 8 |
-| Previous error/warning | ⇧ + Fn 8 |
-| Navigate editor group history | ⌃ + ⇧ + ⇥ |
-| Go back | ⌃ + Minus |
-| Go forward | ⌃ + ⇧ + Minus |
-| Toggle ⇥ moves focus | ⌃ + ⇧ + M |
+| Previous error/warning | ⇧Fn 8 |
+| Navigate editor group history | ⌃⇧⇥ |
+| Go back | ⌃Minus |
+| Go forward | ⌃⇧Minus |
+| Toggle ⇥ moves focus | ⌃⇧M |
 
 ## Multi-cursor & Selection
 | Action | Shortcut |
 |--------|----------|
-| Insert cursor | ⌥ + Click |
-| Insert cursor above | ⌥ + ⌘ + ↑ |
-| Insert cursor below | ⌥ + ⌘ + ↓ |
-| Undo last cursor operation | ⌘ + U |
-| Insert cursor at end of each line selected | ⇧ + ⌥ + I |
-| Select current line | ⌘ + L |
-| Select all occurrences of current selection | ⇧ +  | ⌘ + L |
-| Select all occurrences of current word | ⌘ + Fn 2 |
-| Expand selection to the left | ⌃ + ⇧ + ⌘ + ← |
-| Expand selection to the right | ⌃ + ⇧ + ⌘ + → |
-| Column selection | ⇧ + ⌥ + Drag |
-| Column selection up | ⇧ + ⌥ + ⌘ + ↑ |
-| Column selection down | ⇧ + ⌥ + ⌘ + ↓ |
-| Column selection left | ⇧ + ⌥ + ⌘ + ← 
-| Column selection right | ⇧ + ⌥ + ⌘ + → |
-| Column selection page up | ⇧ + ⌥ + ⌘ + ↑ |
-| Column selection page down | ⇧ + ⌥ + ⌘ + ↓ |
-| Search and replace | Find | ⌘ + F |
-| Replace | ⌥ + ⌘ + F |
-| Find next | ⌘ + G |
-| Find previous | ⇧ + ⌘ + G |
-| Select all find matches | ⌥ + ⏎ |
+| Insert cursor | ⌥Click |
+| Insert cursor above | ⌥⌘↑ |
+| Insert cursor below | ⌥⌘↓ |
+| Undo last cursor operation | ⌘U |
+| Insert cursor at end of each line selected | ⇧⌥I |
+| Select current line | ⌘L |
+| Select all occurrences of current selection | ⇧ | ⌘L |
+| Select all occurrences of current word | ⌘Fn 2 |
+| Expand selection to the left | ⌃⇧⌘← |
+| Expand selection to the right | ⌃⇧⌘→ |
+| Column selection | ⇧⌥Drag |
+| Column selection up | ⇧⌥⌘↑ |
+| Column selection down | ⇧⌥⌘↓ |
+| Column selection left | ⇧⌥⌘← 
+| Column selection right | ⇧⌥⌘→ |
+| Column selection page up | ⇧⌥⌘↑ |
+| Column selection page down | ⇧⌥⌘↓ |
+| Search and replace | Find | ⌘F |
+| Replace | ⌥⌘F |
+| Find next | ⌘G |
+| Find previous | ⇧⌘G |
+| Select all find matches | ⌥⏎ |
 | Add selection to next find match |
-| Add selection to next find match | ⌘ + D |
-| Move last selection to next find match | ⌘ + K then  | ⌘ + D |
+| Add selection to next find match | ⌘D |
+| Move last selection to next find match | ⌘K then  | ⌘D |
 
 ## Rich Languages Editing
 | Action | Shortcut |
 |--------|----------|
-| Trigger suggestion | ⌃ + ␣ |
-| Trigger parameter hints | ⇧ + ⌘ + ␣ |
-| Format document | ⇧ + ⌥ + F |
-| Format selection | ⌘ + G then  | ⌘ + F |
+| Trigger suggestion | ⌃␣ |
+| Trigger parameter hints | ⇧⌘␣ |
+| Format document | ⇧⌥F |
+| Format selection | ⌘G then  | ⌘F |
 | Go to definition | Fn 12 |
-| Peek definition | ⌥ + Fn 12 |
-| Open definition to the side | ⌘ + K then Fn 12 |
-| Quick fix | ⌘ + Full stop |
-| Show references | ⇧ + Fn 12 |
+| Peek definition | ⌥Fn 12 |
+| Open definition to the side | ⌘K then Fn 12 |
+| Quick fix | ⌘Full stop |
+| Show references | ⇧Fn 12 |
 | Rename symbol | Fn 2 |
-| Trim trailing white␣ | ⌘ + K then  | ⌘ + X |
-| Change file language | ⌘ + K then M |
+| Trim trailing white␣ | ⌘K then  | ⌘X |
+| Change file language | ⌘K then M |
 
 ## Editor Management
 | Action | Shortcut |
 |--------|----------|
-| Close editor | ⌘ + W |
-| Close folder | ⌘ + K then F |
-| Split editor | ⌘ + \ |
-| Focus into nth editor group | ⌘ + 1 or ⌘ + 2, etc |
-| Previous editor group | ⌘ + K then  | ⌘ + ← |
-| Next editor group | ⌘ + K then  | ⌘ + → |
-| Move editor left | ⌘ + K then ⇧ +  | ⌘ + ← |
-| Move editor right | ⌘ + K then ⇧ +  | ⌘ + → |
-| Move active editor group left | ⌘ + K + ← |
-| Move active editor group right | ⌘ + K + → |
+| Close editor | ⌘W |
+| Close folder | ⌘K then F |
+| Split editor | ⌘\ |
+| Focus into nth editor group | ⌘1 or ⌘2, etc |
+| Previous editor group | ⌘K then  | ⌘← |
+| Next editor group | ⌘K then  | ⌘→ |
+| Move editor left | ⌘K then ⇧ | ⌘← |
+| Move editor right | ⌘K then ⇧ | ⌘→ |
+| Move active editor group left | ⌘K← |
+| Move active editor group right | ⌘K→ |
 
 ## File Management
 | Action | Shortcut |
 |--------|----------|
-| New file | ⌘ + N |
-| Open | ⌘ + O |
-| Save | ⌘ + S |
-| Save as | ⇧ + ⌘ + S |
-| Save all | ⌥ + ⌘ + S |
-| Close | ⌘ + W |
-| Close all | ⌘ + K then  | ⌘ + W |
-| Reopen closed editor | ⇧ + ⌘ + T |
-| Keep preview mode editor open | ⌘ + K then ⏎ |
-| Open next file | ⌃ + ⇥ |
-| Open previous file | ⌃ + ⇧ + ⇥ |
-| Copy path of active file | ⌘ + K then P |
-| Reveal active file in finder | ⌘ + K then R |
-| Show active file in new window/instance | ⌘ + K then O |
+| New file | ⌘N |
+| Open | ⌘O |
+| Save | ⌘S |
+| Save as | ⇧⌘S |
+| Save all | ⌥⌘S |
+| Close | ⌘W |
+| Close all | ⌘K then  | ⌘W |
+| Reopen closed editor | ⇧⌘T |
+| Keep preview mode editor open | ⌘K then ⏎ |
+| Open next file | ⌃⇥ |
+| Open previous file | ⌃⇧⇥ |
+| Copy path of active file | ⌘K then P |
+| Reveal active file in finder | ⌘K then R |
+| Show active file in new window/instance | ⌘K then O |
 
 ## Display
 | Action | Shortcut |
 |--------|----------|
-| Toggle full screen | ⌃ + ⌘ + F |
+| Toggle full screen | ⌃⌘F |
 | Toggle layout horizontal/vertical |
-| Toggle layout horizontal/vertical | ⌥ + ⌘ + 0 |
-| Zoom in | ⌘ + Equals sign |
-| Zoom out | ⇧ + ⌘ + Minus |
-| Toggle sidebar visibility | ⌘ + B |
-| Show explorer/toggle focus | ⇧ + ⌘ + E |
-| Show search | ⇧ + ⌘ + F |
-| Show source ⌃ | ⌃ + ⇧ + G |
-| Show debug | ⇧ + ⌘ + D |
-| Show extensions | ⇧ + ⌘ + X |
-| Replace in files | ⇧ + ⌘ + H |
-| Toggle search details | ⇧ + ⌘ + J |
-| Show output panel | ⇧ + ⌘ + U |
-| Open markdown preview | ⇧ + ⌘ + V |
-| Open markdown preview to the side | ⌘ + K then V |
-| Zen mode | ⌘ + K then Z |
+| Toggle layout horizontal/vertical | ⌥⌘0 |
+| Zoom in | ⌘Equals sign |
+| Zoom out | ⇧⌘Minus |
+| Toggle sidebar visibility | ⌘B |
+| Show explorer/toggle focus | ⇧⌘E |
+| Show search | ⇧⌘F |
+| Show source ⌃ | ⌃⇧G |
+| Show debug | ⇧⌘D |
+| Show extensions | ⇧⌘X |
+| Replace in files | ⇧⌘H |
+| Toggle search details | ⇧⌘J |
+| Show output panel | ⇧⌘U |
+| Open markdown preview | ⇧⌘V |
+| Open markdown preview to the side | ⌘K then V |
+| Zen mode | ⌘K then Z |
 
 ## Debug
 | Action | Shortcut |
@@ -203,20 +203,20 @@ immediately, download this and learn Visual Studio Code shortcut keys.
 | Toggle breakpoint | Fn 9 |
 | Start/continue | Fn 5 |
 | Step into | Fn 11 |
-| Step out | ⇧ + Fn 11 |
+| Step out | ⇧Fn 11 |
 | Step over | Fn 10 |
-| Stop | ⇧ + Fn 5 |
-| Show hover | ⌘ + K then  | ⌘ + I |
+| Stop | ⇧Fn 5 |
+| Show hover | ⌘K then  | ⌘I |
 
 ## Integrated Terminal
 | Action | Shortcut |
 |--------|----------|
-| Show integrated terminal | ⌃ + \` |
-| Create new terminal | ⌃ + ⇧ + \` |
-| Copy selection | ⌘ + C |
-| Scroll up | ⌘ + ↑ |
-| Scroll down | ⌘ + ↓ |
+| Show integrated terminal | ⌃\` |
+| Create new terminal | ⌃⇧\` |
+| Copy selection | ⌘C |
+| Scroll up | ⌘↑ |
+| Scroll down | ⌘↓ |
 | Scroll page up | Page up |
 | Scroll page down | Page down |
-| Scroll to top | ⌘ + Home |
-| Scroll to bottom | ⌘ + End |
+| Scroll to top | ⌘Home |
+| Scroll to bottom | ⌘End |
