@@ -11,7 +11,7 @@
 
 ### 1. Initial Setup
 
-Before you get started, download and install a Markdown preview extension to your Visual Studio Code. This will allow you to view and navigate the project files easier. For more recommendations, see Visual Studio Code Extensions
+***IMPORTANT*** *Before you get started, download and install a Markdown preview extension to your Visual Studio Code. This will allow you to view and navigate the project files easier. For more recommendations, see [Visual Studio Code Extensions](documentation/vscode-ext.md/#functional--practical).*
 
 #### Project Directory
 
