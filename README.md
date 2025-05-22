@@ -20,6 +20,7 @@ AutoMac contains scripts and configurations for automating the setup of a new ma
   - Theme & Plugin Installation
   - Oh my Zsh Installation & Configuration
 - Quick Action Scripts + Installation Guide
+- Other Useful Scripts + Snippets
 - MacOS Tips & MacOS Tools + Installation
   - MacOS Shortcuts
 - Basic VSCode Extensions You Need
