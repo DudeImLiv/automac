@@ -10,7 +10,7 @@ This is great because it easily allows you to create local \*.md files of pertin
 
 **Instructions**
 
-Run the following script inside of the Broswer Console:
+Run the following script inside of the Browser Console:
 
 *Note: The Console may request that you run a specific command to allow scripts to be run inside the browser. This has been tested on both Chrome and Brave Browsers.*
 
