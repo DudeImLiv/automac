@@ -2,6 +2,7 @@
 
 - [Visual Studio Code Extensions](#visual-studio-code-extensions)
 - [Extensions](#extensions)
+  - [Highlighted Recommendation](#highlighted-recommendation)
   - [Functional \& Practical](#functional--practical)
   - [Visual \& Readability](#visual--readability)
   - [File \& Workspace Navigation](#file--workspace-navigation)
@@ -10,6 +11,16 @@
     - [Java](#java)
 
 # Extensions
+
+## Highlighted Recommendation
+
+**Markdown All in One** by Yu Zhang
+
+All you need to write Markdown (keyboard shortcuts, table of contents, auto preview & more). For more information on using Markdown, see [Markdown](markdown.md).
+
+***Note:*** *This extension can also be configured to a shortcut to easily view a .md file, which is ***highly recommended*** when viewing .md files. I personally use ⇧⌘V but you can pick your own poison based on your natural workflow.*
+
+You can find the [extension](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one) on the Visual Studio Marketplace or by searching for it in Visual Studio Code's *Extensions* panel.
 
 <!-- ----------------------- Functional & Practical ------------------------ -->
 
@@ -31,17 +42,9 @@ Errors will not go unnoticed with this extension. Error and warnings are made pr
 
 You can find the [extension](https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens) on the Visual Studio Marketplace or by searching for it in Visual Studio Code's *Extensions* panel.
 
-**Markdown All in One** by Yu Zhang *(Top Recommendation)*
-
-All you need to write Markdown (keyboard shortcuts, table of contents, auto preview & more). For more information on using Markdown, see [Markdown](markdown.md).
-
-***Note:*** *This extension can also be configured to a shortcut to easily view a .md file, which is ***highly recommended*** when viewing .md files. I personally use ⇧⌘V but you can pick your own poison based on your natural workflow.*
-
-You can find the [extension](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one) on the Visual Studio Marketplace or by searching for it in Visual Studio Code's *Extensions* panel.
-
 **Markdown Preview Enhanced** by Yiyi Wang
 
-Markdown Preview Enhanced ported to vscode. For more information on using Markdown, see [Markdown](markdown.md).
+Markdown Preview Enhanced ported to vscode and can be used as simpler alternative (or companion) to [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one). For more information on using Markdown, see [Markdown](markdown.md).
 
 You can find the [extension](https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced) on the Visual Studio Marketplace or by searching for it in Visual Studio Code's *Extensions* panel.
 
@@ -125,7 +128,7 @@ While VSCode includes default icons, incorporating icon packs provides an excell
 
 Icon packs provide a more extensive and visually recognizable set of icons compared to the defaults. This can make it easier for visual distinction between file types and folders. It can build intuitive recognition and reduce the cognitive load when navigating through files.
 
-There are plenty of options when it comes to choosing an icon pack. Three popular choices are the Material Theme Icons, vscode-icons, and file-icons.
+There are plenty of options when it comes to choosing an icon pack. Three popular choices are the [Material Theme Icons](https://marketplace.visualstudio.com/items?itemName=Equinusocio.vsc-material-theme-icons), [vscode-icons](https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons), and [file-icons](https://marketplace.visualstudio.com/items?itemName=file-icons.file-icons).
 
 I find that a good set of icons improves the overall readability of the file explorer. I enjoy the added benefits of the upgraded visual experience.
 
