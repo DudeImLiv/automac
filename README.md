@@ -2,9 +2,7 @@
 
 AutoMac contains scripts and configurations for automating the setup of a new mac system. It includes installation of essential tools applications and shell configurations, with configurable scripts and settings so reinitializing your Mac machine is easier than ever.
 
-## Table of Contents
 - [AutoMac](#automac)
-  - [Table of Contents](#table-of-contents)
   - [What You'll Find](#what-youll-find)
   - [Prerequisites](#prerequisites)
   - [Getting Started](#getting-started)
@@ -38,7 +36,7 @@ AutoMac contains scripts and configurations for automating the setup of a new ma
 
 1. Download the files by clicking the green 'Code' button above and selecting 'Download ZIP'.
 2. Unzip it.
-3. Review the installation.md file for more information. 
+3. Review [AutoMac Installation](installation.md) for more information. 
 
 *This file can be found in your recently downloaded project folder.*
 

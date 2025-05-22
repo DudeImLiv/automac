@@ -1,8 +1,6 @@
 # AutoMac Installation
 
-## Table of Contents
 - [AutoMac Installation](#automac-installation)
-  - [Table of Contents](#table-of-contents)
     - [1. Initial Setup](#1-initial-setup)
       - [Project Directory](#project-directory)
     - [2. Running The Setup](#2-running-the-setup)
@@ -12,6 +10,8 @@
     - [Error Handling](#error-handling)
 
 ### 1. Initial Setup
+
+Before you get started, download and install a Markdown preview extension to your Visual Studio Code. This will allow you to view and navigate the project files easier. For more recommendations, see Visual Studio Code Extensions
 
 #### Project Directory
 
