@@ -1,6 +1,5 @@
 # AutoMac Configuration 
 
-## Table of Contents
 - [AutoMac Configuration](#automac-configuration)
   - [Table of Contents](#table-of-contents)
   - [Script Descriptions](#script-descriptions)

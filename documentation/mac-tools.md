@@ -1,6 +1,5 @@
 # MacOS Tools
 
-## Table of Contents
 - [MacOS Tools](#macos-tools)
   - [Table of Contents](#table-of-contents)
 - [Applications](#applications)

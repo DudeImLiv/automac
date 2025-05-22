@@ -1,8 +1,6 @@
 # Quick Actions
 
-## Table of Contents
 - [Quick Actions](#quick-actions)
-  - [Table of Contents](#table-of-contents)
   - [Open in VSCode](#open-in-vscode)
   - [List Files](#list-files)
   - [List Directories](#list-directories)

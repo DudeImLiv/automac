@@ -1,6 +1,5 @@
 # Excel Shortcuts for Mac OS
 
-## Table of Contents
 - [Excel Shortcuts for Mac OS](#excel-shortcuts-for-mac-os)
   - [Table of Contents](#table-of-contents)
   - [Most Used Shortcuts](#most-used-shortcuts)

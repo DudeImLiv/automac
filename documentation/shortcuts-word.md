@@ -1,6 +1,5 @@
 # Microsoft Office Shortcuts for Mac OS
 
-## Table of Contents
 - [Microsoft Office Shortcuts for Mac OS](#microsoft-office-shortcuts-for-mac-os)
   - [Table of Contents](#table-of-contents)
   - [Microsoft Word](#microsoft-word)

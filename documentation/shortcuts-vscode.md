@@ -1,6 +1,5 @@
 # Visual Studio Code Shortcuts for Mac OS
 
-## Table of Contents
 - [Visual Studio Code Shortcuts for Mac OS](#visual-studio-code-shortcuts-for-mac-os)
   - [Table of Contents](#table-of-contents)
   - [Most Frequently Used](#most-frequently-used)
