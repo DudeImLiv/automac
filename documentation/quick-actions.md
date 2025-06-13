@@ -82,7 +82,7 @@ for target in "$@"; do
             fi
         done | sort | pbcopy
 
-        echo "✅ File/folder list copied to clipboard"
+        echo "✔ File/folder list copied to clipboard"
     fi
 done
 ```
@@ -137,7 +137,7 @@ for target in "$@"; do
             # done
         ) | pbcopy
 
-        echo "✅ Output copied to clipboard (with spacing between folders)"
+        echo "✔ Output copied to clipboard (with spacing between folders)"
     fi
 done
 ```

@@ -28,6 +28,6 @@ for target in "$@"; do
             # done
         ) | pbcopy
 
-        echo "✅ Output copied to clipboard (with spacing between folders)"
+        echo "✔ Output copied to clipboard (with spacing between folders)"
     fi
 done

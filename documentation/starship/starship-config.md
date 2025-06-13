@@ -3370,7 +3370,7 @@ The `package` module is shown when the current directory is the repository for a
 *   [**Daml**](https://www.digitalasset.com/developers) - The `daml` package version is extracted from the `daml.yaml` present in the current directory
 *   [**Dart**](https://pub.dev/) - The `dart` package version is extracted from the `pubspec.yaml` present in the current directory
 
-> ⚠️ The version being shown is that of the package whose source code is in your current directory, not your package manager.
+> ⚠ The version being shown is that of the package whose source code is in your current directory, not your package manager.
 
 ### Options [​](#options-68)
 
@@ -4205,7 +4205,7 @@ This module is disabled by default. To enable it, set `disabled` to `false` in y
 | Option | Default | Description |
 | --- | --- | --- |
 | format | '[$symbol$status]($style) ' | The format of the module |
-| symbol | '❌' | The symbol displayed on program error |
+| symbol | '✘' | The symbol displayed on program error |
 | success_symbol | '' | The symbol displayed on program success |
 | not_executable_symbol | '🚫' | The symbol displayed when file isn't executable |
 | not_found_symbol | '🔍' | The symbol displayed when the command can't be found |

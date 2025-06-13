@@ -54,18 +54,18 @@ is_running_in_iterm() {
 echo "Checking iTerm2 installation status..."
 ITERM_INSTALLED=false
 if check_app_exists "iTerm"; then
-    echo "✅ iTerm2 is already installed in Applications"
+    echo "✔ iTerm2 is already installed in Applications"
     ITERM_INSTALLED=true
 elif is_app_installed "iterm2"; then
-    echo "✅ iTerm2 is already installed via Homebrew"
+    echo "✔ iTerm2 is already installed via Homebrew"
     ITERM_INSTALLED=true
 else
-    echo "📦 Installing iTerm2..."
+    echo "↻ Installing iTerm2..."
     if brew install --cask iterm2; then
-        echo "✅ iTerm2 installation successful"
+        echo "✔ iTerm2 installation successful"
         ITERM_INSTALLED=true
     else
-        echo "❌ Failed to install iTerm2"
+        echo "✘ Failed to install iTerm2"
         exit 1
     fi
 fi
@@ -73,10 +73,10 @@ fi
 CONFIG_SCRIPT="$HOME/scripts/configuration/automac/mac-config.sh"
 
 if [ "$ITERM_INSTALLED" = true ] && is_running_in_iterm; then
-    echo "🚀 Running configuration script in current iTerm2 window..."
+    echo "⇯ Running configuration script in current iTerm2 window..."
     sh "$CONFIG_SCRIPT"
 else
-    echo "🚀 Launching iTerm2 and starting configuration script..."
+    echo "⇯ Launching iTerm2 and starting configuration script..."
 
     # get the absolute path to the launch script
     LAUNCH_SCRIPT="$(cd "$(dirname "$0")" && pwd)/launch-config.sh"

@@ -19,6 +19,6 @@ for target in "$@"; do
             fi
         done | sort | pbcopy
 
-        echo "✅ File/folder list copied to clipboard"s
+        echo "✔ File/folder list copied to clipboard"s
     fi
 done
